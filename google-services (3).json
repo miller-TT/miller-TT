@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808702112054",
+    "project_id": "kilimall-1e135",
+    "storage_bucket": "kilimall-1e135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808702112054:android:900ec7b127f4359a410397",
+        "android_client_info": {
+          "package_name": "com.android.kilimall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808702112054-baastn0eia960o8ncksp5a18pnhhnnnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANiGKSdgGFeApmxLmKH1LZv1atQeo-An0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808702112054-baastn0eia960o8ncksp5a18pnhhnnnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
